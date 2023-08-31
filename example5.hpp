@@ -1,3 +1,8 @@
+//================================
+//https://godbolt.org/z/cWK997x16
+//================================
+
+
 #include <concepts>
 #include <memory>
 #include <vector>

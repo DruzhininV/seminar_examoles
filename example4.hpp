@@ -1,3 +1,8 @@
+//================================
+//https://godbolt.org/z/j7c6h3xvr
+//================================
+
+
 #include <concepts>
 #include <memory>
 #include <vector>

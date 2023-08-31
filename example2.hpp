@@ -1,3 +1,8 @@
+//================================
+//https://godbolt.org/z/6v77M8Gza
+//================================
+
+
 #include <iostream>
 #include <vector>
 #include <array>

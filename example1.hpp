@@ -1,3 +1,8 @@
+//================================
+//https://godbolt.org/z/vzbKPv86e
+//================================
+
+
 #include <iostream>
 #include <vector>
 #include <fmt/core.h>
